@@ -31,6 +31,9 @@ App Idea: a studying application which allows students to manage grades, create 
 
 Describe any challenges encountered while building the app.
 
+1. Linking the button to the view controller
+2. Customizing the view
+
 ## License
 
     Copyright [2023] [Steven Tung]
