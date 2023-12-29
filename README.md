@@ -20,7 +20,9 @@ The following **required** functionality is completed:
 
 
 ## App Brainstorming (Step 4)
-
+1. Instagram: ability to watch an endless amount of short form content, ability to create message chats and groups with friends, and ability to share content to users outside of Instagram through a link.
+2. Discord: ability to create large chat forums to discuss different subjects, public and private voice chat, and automatic moderation
+3. Spotify: ability to organize and create playlists, download songs and podcasts for offline consumption, and AI catered playlists to fit your music style.
 ## Notes
 
 Describe any challenges encountered while building the app.
