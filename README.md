@@ -1,4 +1,4 @@
-# Prework - *Name of App Here*
+# Prework - *IOS101 Prework*
 
 Submitted by: **Steven Tung**
 
@@ -14,11 +14,10 @@ The following **required** functionality is completed:
 - [X] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-<div>
-    <a href="https://www.loom.com/share/5c3415a054e64fd8994affe5561075fa">
-      <img style="max-width:300px;" src="https://www.loom.com/share/5c3415a054e64fd8994affe5561075fa">
-    </a>
-  </div>
+<a href="https://www.loom.com/share/5c3415a054e64fd8994affe5561075fa">
+   <img style="max-width:300px;" src="https://www.loom.com/share/5c3415a054e64fd8994affe5561075fa">
+</a>
+
 
 
 
@@ -30,7 +29,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Steven Tung]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
