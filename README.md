@@ -14,9 +14,7 @@ The following **required** functionality is completed:
 - [X] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-<a href="https://www.loom.com/share/5c3415a054e64fd8994affe5561075fa">
-   <img style="max-width:300px;" src="https://www.loom.com/share/5c3415a054e64fd8994affe5561075fa">
-</a>
+<img src='Kapture 2023-12-28 at 20.46.20.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
