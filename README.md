@@ -1,17 +1,17 @@
 # Prework - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: **Steven Tung**
 
-**Name of your app** is an app that... [TODO] 
+**IOS-Prework** is an app that... [changes the color of the background of the application when the user presses the "Click Me" button] 
 
-Time spent: **X** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [X] Users are see a screen with three labels and a button
+- [X] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
