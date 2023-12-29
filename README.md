@@ -23,6 +23,10 @@ The following **required** functionality is completed:
 1. Instagram: ability to watch an endless amount of short form content, ability to create message chats and groups with friends, and ability to share content to users outside of Instagram through a link.
 2. Discord: ability to create large chat forums to discuss different subjects, public and private voice chat, and automatic moderation
 3. Spotify: ability to organize and create playlists, download songs and podcasts for offline consumption, and AI catered playlists to fit your music style.
+
+App Idea: a studying application which allows students to manage grades, create schedules, and set goals. The app would be compatible with all iOS devices so that students can use it on the go whether it be in class or in their study room. This app will simplify managing time and schedules for students. It can also help create goals and set grade goals. Students will be able to upload their grades and calculate their GPA. In addition, they can utilize a calendar feature to quickly see upcoming events. Some other interesting features that can be implemented are note taking capabilities and automated reminders.
+
+
 ## Notes
 
 Describe any challenges encountered while building the app.
